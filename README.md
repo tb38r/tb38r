@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tolu, software engineeer in training 
+- 👋 Hi, I’m Tolu
 - 🌱 I currently work with Go, Javascript & Rust
 -  You can find all my personal projects here, as well as some collaborations 
 - 📫 Reach me at tlawal86@hotmail.co.uk
